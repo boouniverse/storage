@@ -1,0 +1,6 @@
+{
+  "name": "BOO OG #2",
+  "description": "Each OG NFT serves as a Pass for the owner into the BOO ecosystem. Only 666 OGs in the Haunted House",
+  "image": "https://boouniverse.github.io/storage/ognft/booginner.png",
+  "attributes": [{ "trait_type": "Rarity", "value": "BOOginner" }]
+}
